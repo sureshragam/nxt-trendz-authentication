@@ -65,7 +65,7 @@ class LoginForm extends Component {
             <label htmlFor="username">USERNAME</label>
             <input
               type="text"
-              id="Username"
+              id="username"
               placeholder="Username"
               value={username}
               onChange={this.onUsernameChange}
